@@ -5,4 +5,4 @@ Which includes
 <br>-Python Flask Framework
 <br>-MS-SQL RDBMS to store the data
 <br>-The Whole project was done on the Pycharm platform 
-<br>This hosts the app on a local system which takes the information from the user and predicts salary for him and stores the whole user data into RDBMS
+<br>This hosts the app on a local system which takes the information from the user and predicts salary for him and stores the whole user data into RDBMS.
